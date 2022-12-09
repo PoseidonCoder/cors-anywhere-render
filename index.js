@@ -1,6 +1,6 @@
 const cors_proxy = require("cors-anywhere");
 
-const host = "https://study-bot-3c3o.onrender.com";
+const host = "study-bot-3c3o.onrender.com";
 const port = 3000;
 
 cors_proxy
